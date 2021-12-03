@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="713d4b63-8a2d-413c-a18f-506f110ca759" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/images/aminul.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/aminulthum.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/quranic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/qurincthum.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/googlef7f31813fe5d372e.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/thefaceshare.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/thefaceshare.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,17 +27,19 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/assets/images" />
       <recent name="$PROJECT_DIR$/assets" />
     </key>
@@ -59,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1607445057959</updated>
       <workItem from="1607445074250" duration="12465000" />
-      <workItem from="1638503722322" duration="6911000" />
+      <workItem from="1638503722322" duration="7987000" />
     </task>
     <servers />
   </component>
